@@ -1,0 +1,56 @@
+body {
+    background-color: whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bimestre {
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    padding: 2px 10px;
+}
+
+.bimImpar {
+    background-color: lightgreen;
+}
+
+.bimPar {
+    background-color: lightsalmon;
+}
+
+.logo {
+    width: 40px;
+    float: left;
+    padding-right: 20px;
+    margin-left: 15px;
+}
+
+a:link,
+a:visited {
+    color: darkred;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.ifrn {
+    color: rgb(80, 80, 80);
+    font-size: small;
+}
+
+.titulo {
+    width: 400px;
+    margin: 40px 0;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.topo {
+    width: 400px;
+}
